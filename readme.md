@@ -4,7 +4,7 @@ Página web personal de Mateo, hecha para aprender a programar.
 
 ## 🌐 Ver la página
 
-👉 <a href="https://javintx.github.io/mateo.github.io/" target="_blank" rel="noopener noreferrer">Abrir página web</a>
+👉 [Abrir página web](https://javintx.github.io/mateo.github.io/)
 
 ## 📁 Archivos
 
