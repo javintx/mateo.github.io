@@ -4,7 +4,7 @@ Página web personal de Mateo, hecha para aprender a programar.
 
 ## 🌐 Ver la página
 
-👉 [Abrir página web](https://jgarcia6.github.io/mateo/)
+👉 [Abrir página web](https://javintx.github.io/mateo.github.io/)
 
 ## 📁 Archivos
 
