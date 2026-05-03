@@ -1,0 +1,39 @@
+/* Esto cambia el aspecto de TODA la página */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+/* El título grande de arriba */
+h1 {
+  color: #ff6600;
+  font-size: 48px;
+}
+
+/* Los títulos de cada sección */
+h2 {
+  color: #0055cc;
+}
+
+/* Las cajas de información */
+.tarjeta {
+  background-color: white;
+  border: 3px solid #0055cc;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+/* El emoji grande de la pelota */
+.emoji-grande {
+  font-size: 80px;
+}
+
+/* El texto tachado de las lentejas */
+.tachado {
+  text-decoration: line-through;
+  color: red;
+}
