@@ -18,10 +18,3 @@ Página web personal de Mateo, hecha para aprender a programar.
 1. Abre `index.html` con el **bloc de notas** para cambiar los textos
 2. Abre `estilo.css` con el **bloc de notas** para cambiar los colores
 3. Abre `index.html` con el **navegador** para ver el resultado
-
-## 👦 Sobre Mateo
-
-- Tiene 11 años y vive en **Premià de Mar**
-- Estudia en el colegio **Santa Anna**
-- Le encanta el 🏀 **baloncesto**
-- Odia las 🍲 ~~lentejas~~
